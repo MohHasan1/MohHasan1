@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @MohHasan1
 - 🎓 Studying at Seneca Polytechnic as a Software Engineering student.
 - 🌱 Learning and exploring new technologies.
-- 💬 Open to collaboration and new opportunities.
 - ✉️ Email: senecahasan@gmail.com
 
 <!---
