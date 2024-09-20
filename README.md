@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @MohHasan1
 - 🎓 Studying at Seneca Polytechnic as a Software Engineering student.
 - 🌱 Learning and exploring new technologies.
-- ✉️ Email: senecahasan@gmail.com
+- ✉️ Email: hasan.swe.dev@gmail.com
 
 <!---
 MohHasan1/MohHasan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
