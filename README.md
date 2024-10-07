@@ -1,6 +1,6 @@
 # Hasan's Profile 👨‍💻
 
-- 👋 Hi, I’m @MohHasan1
+- 👋 Hi, I’m Hasan
 - 🎓 Studying at Seneca Polytechnic as a Software Engineering student.
 - 🌱 Learning and exploring new technologies.
 - ✉️ Email: hasan.swe.dev@gmail.com
