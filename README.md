@@ -1,10 +1,21 @@
 # Hasan's Profile 👨‍💻
 
-- 👋 Hi, I’m Hasan
-- 🎓 Studying at Seneca Polytechnic as a Software Engineering student.
-- 🌱 Learning and exploring new technologies.
-- ✉️ Email: hasan.swe.dev@gmail.com
-- websitr: https://hasan-swe.dev/
+- 👋 Hi there! I’m **Hasan**, a Software Engineering student at Seneca Polytechnic.
+- 🎓 Passionate about web development and exploring new tools and technologies daily.
+- 🎖 **Azure AI Certified** – expanding my skills in AI alongside web development.
+- 📫 Reach me at [hasan.swe.dev@gmail.com](mailto:hasan.swe.dev)
+- 🌐 **Portfolio**: [hasan-swe.dev](https://hasan-swe.dev/)
+
+## Projects
+
+Here are some web projects I’ve worked on:
+
+- 🌌 **Algo Mazes**: Visualize maze generation and pathfinding algorithms. [Try it here](https://algo-mazes.netlify.app/)
+- 🔗 **Byte Link**: A simple and effective URL shortener. [Check it out](https://byte-link.netlify.app/)
+- 🔍 **Ignore Git**: A tool to create .gitignore files quickly. [Explore it](https://ignore-git.netlify.app/)
+- 🎯 **Goal App**: A productivity app for setting and tracking personal goals. [See it live](https://goal-app-70cf4.firebaseapp.com/)
+
+
 
 <!---
 MohHasan1/MohHasan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
