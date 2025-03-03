@@ -3,7 +3,7 @@
 - 👋 Hi there! I’m **Hasan**, a Software Engineering student at Seneca Polytechnic.
 - 🎓 Passionate about web development and exploring new tools and technologies daily.
 - 🌱 Always learning and experimenting to create innovative web solutions.
-- 🎖 **Azure AI Certified** – expanding my skills in AI alongside web development.
+- 🎖 **Azure AI abd AWS AI practitioner Certified** – expanding my skills in AI alongside web development.
 - 📫 Reach me at [hasan.swe.dev@gmail.com](mailto:hasan.swe.dev)
 - 🔗 **LinkedIn**: [Hasan's LinkedIn](https://www.linkedin.com/in/hasan-in/)
 - 🌐 **Portfolio**: [hasan-swe.dev](https://hasan-swe.dev/)
